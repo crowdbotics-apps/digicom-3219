@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT digicom_3219.wsgi:application
